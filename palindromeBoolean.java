@@ -1,5 +1,3 @@
-package innoshriPVTLTD;
-
 import java.util.Scanner;
 
 public class palindromeBoolean {
@@ -27,3 +25,4 @@ public class palindromeBoolean {
 	}
 
 }
+
