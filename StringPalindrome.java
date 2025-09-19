@@ -1,5 +1,3 @@
-package innoshriPVTLTD;
-
 public class StringPalindrome {
 
 	public static void main(String[] args) {
@@ -17,4 +15,5 @@ public class StringPalindrome {
 			System.out.print(yes);
 		}
 	}
+
 }
